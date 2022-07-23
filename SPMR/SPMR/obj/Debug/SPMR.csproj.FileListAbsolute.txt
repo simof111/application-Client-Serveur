@@ -1,0 +1,11 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\bin\Debug\SPMR.exe.config
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\bin\Debug\SPMR.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\bin\Debug\SPMR.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\SPMR\SPMR\obj\Debug\SPMR.Form2.resources

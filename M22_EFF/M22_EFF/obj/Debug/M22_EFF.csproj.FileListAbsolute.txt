@@ -1,0 +1,11 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\bin\Debug\M22_EFF.exe.config
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.Employee.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.Reponse.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\bin\Debug\M22_EFF.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\bin\Debug\M22_EFF.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\M22_EFF\M22_EFF\obj\Debug\M22_EFF.pdb

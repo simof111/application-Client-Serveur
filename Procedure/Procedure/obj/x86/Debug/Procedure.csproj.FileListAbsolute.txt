@@ -1,0 +1,8 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\bin\Debug\Procedure.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\bin\Debug\Procedure.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Procedure\Procedure\obj\x86\Debug\Procedure.pdb

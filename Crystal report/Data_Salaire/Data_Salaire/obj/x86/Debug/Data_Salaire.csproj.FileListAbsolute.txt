@@ -1,0 +1,9 @@
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\bin\Debug\Data_Salaire.exe.config
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\bin\Debug\Data_Salaire.exe
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\bin\Debug\Data_Salaire.pdb
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.Form1.resources
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.Properties.Resources.resources
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.exe
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.pdb
+C:\Users\zakaria\Desktop\ELARRIM Zakaria\Data_Salaire\Data_Salaire\obj\x86\Debug\Data_Salaire.csprojResolveAssemblyReference.cache

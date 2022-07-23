@@ -1,0 +1,9 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\bin\Debug\GestionTournoi.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\bin\Debug\GestionTournoi.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\obj\x86\Debug\GestionTournoi.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\GestionTournoi\GestionTournoi\bin\Debug\GestionTournoi.exe.config

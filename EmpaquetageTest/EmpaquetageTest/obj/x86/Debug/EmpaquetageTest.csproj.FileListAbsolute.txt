@@ -1,0 +1,7 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\bin\Debug\EmpaquetageTest.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\bin\Debug\EmpaquetageTest.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\obj\x86\Debug\EmpaquetageTest.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\obj\x86\Debug\EmpaquetageTest.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\obj\x86\Debug\EmpaquetageTest.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\obj\x86\Debug\EmpaquetageTest.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\EmpaquetageTest\EmpaquetageTest\obj\x86\Debug\EmpaquetageTest.pdb

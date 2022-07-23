@@ -1,0 +1,4 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\tp\tp\bin\tp.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\tp\tp\bin\tp.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\tp\tp\obj\Debug\tp.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\tp\tp\obj\Debug\tp.pdb

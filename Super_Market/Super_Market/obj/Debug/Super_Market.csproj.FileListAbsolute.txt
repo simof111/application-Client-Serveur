@@ -1,0 +1,10 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\bin\Debug\Super_Market.exe.config
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\bin\Debug\Super_Market.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\bin\Debug\Super_Market.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Super_Market\Super_Market\obj\Debug\Super_Market.pdb

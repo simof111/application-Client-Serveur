@@ -1,0 +1,9 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\bin\Debug\Etat_Imprimable.exe.config
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\bin\Debug\Etat_Imprimable.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\bin\Debug\Etat_Imprimable.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Etat_Imprimable\Etat_Imprimable\obj\x86\Debug\Etat_Imprimable.pdb

@@ -1,0 +1,74 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace Gestion_Bourse
+{
+    class Class1 : ListControl
+    {
+        public SqlConnection cnx = new SqlConnection("Data Source=.;Initial Catalog=DataBourse;Integrated Security=True");
+        public SqlCommand cmd = new SqlCommand();
+        public SqlDataReader rd;
+
+        public void Connection()
+        {
+            if (cnx.State == ConnectionState.Open)
+            {
+                cnx.Close();
+            }
+            cnx.Open();
+            cmd.Connection = cnx;
+
+        }
+
+        public void ShowDG(DataGridView dg, String script)
+        {
+            Connection();
+            cmd.Connection = cnx;
+            cmd.CommandText = script;
+            rd = cmd.ExecuteReader();
+            DataTable tab = new DataTable();
+            tab.Load(rd);
+            dg.DataSource = tab;
+            rd.Close();
+            cnx.Close();
+        }
+
+        public void Insert(String script)
+        {
+            Connection();
+            cmd.Connection = cnx;
+            cmd.CommandText = script;
+            cmd.ExecuteNonQuery();
+            cnx.Close();
+            MessageBox.Show("Insert Successfly ^_^");
+        }
+
+        public void Update(String script)
+        {
+            Connection();
+            cmd.Connection = cnx;
+            cmd.CommandText = script;
+            cmd.ExecuteNonQuery();
+            cnx.Close();
+            MessageBox.Show("Update Successfly ^_^");
+        }
+
+        public void Delete(String script)
+        {
+            Connection();
+            cmd.Connection = cnx;
+            cmd.CommandText = script;
+            cmd.ExecuteNonQuery();
+            cnx.Close();
+            MessageBox.Show("Delete Successfly ^_^");
+        }
+      
+        
+    }
+}

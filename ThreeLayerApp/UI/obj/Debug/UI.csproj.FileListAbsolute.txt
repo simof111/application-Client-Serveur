@@ -1,0 +1,26 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\UI.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\UI.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\BLL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\DAL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\BLL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\DAL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\UI.dll.config
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\Newtonsoft.Json.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\UI\bin\Newtonsoft.Json.xml
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\UI.dll.config
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\UI.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\UI.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\BLL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\DAL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\Newtonsoft.Json.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\BLL.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\DAL.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\bin\Newtonsoft.Json.xml
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\UI\obj\Debug\UI.pdb

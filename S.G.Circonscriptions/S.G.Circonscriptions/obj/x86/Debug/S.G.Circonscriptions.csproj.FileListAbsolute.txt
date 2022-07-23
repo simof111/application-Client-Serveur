@@ -1,0 +1,14 @@
+F:\S.G.Circonscriptions\S.G.Circonscriptions\bin\Debug\S.G.Circonscriptions.exe
+F:\S.G.Circonscriptions\S.G.Circonscriptions\bin\Debug\S.G.Circonscriptions.pdb
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Candidat.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Circoncription.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Form1.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Parti.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Properties.Resources.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Province.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Region.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.Tranch_Age.resources
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.csproj.GenerateResource.Cache
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.exe
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.pdb
+F:\S.G.Circonscriptions\S.G.Circonscriptions\obj\x86\Debug\S.G.Circonscriptions.csprojResolveAssemblyReference.cache

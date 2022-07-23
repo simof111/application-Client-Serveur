@@ -1,0 +1,4 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\TestTp6\TestTp6\bin\TestTp6.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\TestTp6\TestTp6\bin\TestTp6.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\TestTp6\TestTp6\obj\Debug\TestTp6.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\TestTp6\TestTp6\obj\Debug\TestTp6.pdb

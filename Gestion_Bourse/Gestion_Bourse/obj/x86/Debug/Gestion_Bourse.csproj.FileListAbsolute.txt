@@ -1,0 +1,16 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\bin\Debug\Gestion_Bourse.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\bin\Debug\Gestion_Bourse.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.pdb
+F:\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.exe
+F:\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.pdb
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.Form1.resources
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.Properties.Resources.resources
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.csproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.exe
+C:\Users\Hamza\Desktop\asp.net\TDI2em\application Client-Serveur\Gestion_Bourse\Gestion_Bourse\obj\x86\Debug\Gestion_Bourse.pdb

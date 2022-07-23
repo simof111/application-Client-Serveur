@@ -1,0 +1,10 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\bin\Debug\Proc_Output.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\bin\Debug\Proc_Output.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.exe
+C:\Users\zakaria\Desktop\Developpem-ent\application Client-Serveur\Proc_Output\Proc_Output\obj\x86\Debug\Proc_Output.pdb

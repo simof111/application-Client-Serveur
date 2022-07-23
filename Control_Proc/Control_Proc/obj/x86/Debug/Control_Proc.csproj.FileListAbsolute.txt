@@ -1,0 +1,9 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\bin\Debug\Control_Proc.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\bin\Debug\Control_Proc.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.exe
+C:\Users\zakaria\Desktop\Developpem-ent\application Client-Serveur\Control_Proc\Control_Proc\obj\x86\Debug\Control_Proc.pdb

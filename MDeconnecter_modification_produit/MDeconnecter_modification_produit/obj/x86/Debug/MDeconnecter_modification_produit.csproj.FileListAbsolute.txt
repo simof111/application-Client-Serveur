@@ -1,0 +1,8 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\bin\Debug\MDeconnecter_modification_produit.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\bin\Debug\MDeconnecter_modification_produit.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\MDeconnecter_modification_produit\MDeconnecter_modification_produit\obj\x86\Debug\MDeconnecter_modification_produit.pdb

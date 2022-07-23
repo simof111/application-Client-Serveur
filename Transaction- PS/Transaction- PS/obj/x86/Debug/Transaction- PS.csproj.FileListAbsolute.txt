@@ -1,0 +1,14 @@
+F:\Transaction- PS\Transaction- PS\bin\Debug\Transaction- PS.exe
+F:\Transaction- PS\Transaction- PS\bin\Debug\Transaction- PS.pdb
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction__PS.Form1.resources
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction__PS.Properties.Resources.resources
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.csproj.GenerateResource.Cache
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.exe
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.pdb
+F:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.csprojResolveAssemblyReference.cache
+D:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.exe
+D:\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.pdb
+F:\application Client-Serveur\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.exe
+F:\application Client-Serveur\Transaction- PS\Transaction- PS\obj\x86\Debug\Transaction- PS.pdb

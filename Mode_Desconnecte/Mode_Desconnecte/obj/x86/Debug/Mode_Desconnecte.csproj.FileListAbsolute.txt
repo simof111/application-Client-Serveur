@@ -1,0 +1,9 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\bin\Debug\Mode_Desconnecte.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\bin\Debug\Mode_Desconnecte.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.Form2.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\Mode_Desconnecte\Mode_Desconnecte\obj\x86\Debug\Mode_Desconnecte.csprojResolveAssemblyReference.cache

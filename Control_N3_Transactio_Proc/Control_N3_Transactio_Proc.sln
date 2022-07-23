@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control_N3_Transactio_Proc", "Control_N3_Transactio_Proc\Control_N3_Transactio_Proc.csproj", "{DA032E84-CF40-4D55-BC66-923769D3BF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA032E84-CF40-4D55-BC66-923769D3BF37}.Debug|x86.ActiveCfg = Debug|x86
+		{DA032E84-CF40-4D55-BC66-923769D3BF37}.Debug|x86.Build.0 = Debug|x86
+		{DA032E84-CF40-4D55-BC66-923769D3BF37}.Release|x86.ActiveCfg = Release|x86
+		{DA032E84-CF40-4D55-BC66-923769D3BF37}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

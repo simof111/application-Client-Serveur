@@ -1,0 +1,16 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\BLL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\BLL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\DAL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\BLL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\BLL.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\DAL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\bin\Debug\DAL.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\BLL\obj\Debug\BLL.pdb

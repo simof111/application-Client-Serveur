@@ -1,0 +1,11 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\DAL\bin\Debug\DAL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\DAL\bin\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.dll
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\bin\Debug\DAL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\bin\Debug\DAL.pdb
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.dll
+C:\Users\simohamed\Desktop\Usb Hamza\harti+sikou\application Client-Serveur\ThreeLayerApp\DAL\obj\Debug\DAL.pdb

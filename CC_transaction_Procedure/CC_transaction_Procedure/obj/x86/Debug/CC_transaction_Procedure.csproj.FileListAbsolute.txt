@@ -1,0 +1,7 @@
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\bin\Debug\CC_transaction_Procedure.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\bin\Debug\CC_transaction_Procedure.pdb
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\obj\x86\Debug\CC_transaction_Procedure.Form1.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\obj\x86\Debug\CC_transaction_Procedure.Properties.Resources.resources
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\obj\x86\Debug\CC_transaction_Procedure.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\obj\x86\Debug\CC_transaction_Procedure.exe
+C:\Users\zakaria\Desktop\Developpem-ent\D'application Client-Serveur\CC_transaction_Procedure\CC_transaction_Procedure\obj\x86\Debug\CC_transaction_Procedure.pdb
